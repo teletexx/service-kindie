@@ -1,0 +1,33 @@
+DE,Description goes here
+DS,inserter
+SP,Z:\home\peterk\Documents\kindie\p601-radioSiriusXM.tti
+PN,60100
+SC,0001
+PS,8000
+CT,8,T
+RE,0
+OL,0,        KINDIECOMM %%# %d.%m.%yC%H.%M.%S
+OL,2, FSIRIUSXM KIDS PLACE  G
+OL,3,WEEKDAYS EST                         1/3
+OL,4,C0600GAutomatik                         
+OL,5,C0700GAbsolutely Mindy!                 
+OL,6,FFeel free to call in and join in on all
+OL,7,Fthe fun, games, jokes, pranks, and lots
+OL,8,Flots more with Mindy and friends!!!    
+OL,9,C1000GAbsolutely Mindy!-West Coast      
+OL,10,C1200GHot Lunch                         
+OL,11,FAll the best and funniest moments ever 
+OL,12,Fheard on KPL served up for your listen-
+OL,13,Fing pleasure!                          
+OL,14,C1500GThe Animal Farm w/Kenny Curtis    
+OL,15,C1700GLive from the Monkey House        
+OL,16,C2000GThe Animal Farm-West Coast repeat 
+OL,17,C2200GAutomatikC0000GAutomatik          
+OL,18,C0200GDreamCatchers                     
+OL,19,FAll the best lullabies from kids'      
+OL,20,Ffavorite artists past and present!     
+OL,21,BKPL PHONES:IE866-328-2345              
+OL,22,WEE NationC602GFunky KidsC604           
+OL,23,Radio contactsC610GMost RequestedC609   
+OL,24,AWEE NationBJUMP 105.3CFunkyKidsFFrontPg
+FL,602,603,604,100,8ff,8ff
